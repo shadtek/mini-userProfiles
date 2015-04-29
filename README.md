@@ -243,22 +243,3 @@ Now we have our data in our view, but it's a little ugly. Let's do some simple c
 
 Now we should have some awesome user profiles! 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
